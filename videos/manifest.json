@@ -1,0 +1,572 @@
+{
+  "version": 1,
+  "published_count": 141,
+  "evaluated_count": 141,
+  "total_video_mib": 68.02,
+  "videos": {
+    "Cosmos2.5_0001": {
+      "url": "videos/Cosmos2.5_0001.mp4",
+      "bytes": 363401
+    },
+    "Cosmos2.5_0003": {
+      "url": "videos/Cosmos2.5_0003.mp4",
+      "bytes": 371371
+    },
+    "Cosmos2.5_0004": {
+      "url": "videos/Cosmos2.5_0004.mp4",
+      "bytes": 343749
+    },
+    "Cosmos2.5_0005": {
+      "url": "videos/Cosmos2.5_0005.mp4",
+      "bytes": 365218
+    },
+    "Cosmos2.5_0006": {
+      "url": "videos/Cosmos2.5_0006.mp4",
+      "bytes": 356151
+    },
+    "Cosmos2.5_0008": {
+      "url": "videos/Cosmos2.5_0008.mp4",
+      "bytes": 368225
+    },
+    "Cosmos2.5_0011": {
+      "url": "videos/Cosmos2.5_0011.mp4",
+      "bytes": 341396
+    },
+    "Cosmos2.5_0013": {
+      "url": "videos/Cosmos2.5_0013.mp4",
+      "bytes": 395874
+    },
+    "Cosmos2.5_0016": {
+      "url": "videos/Cosmos2.5_0016.mp4",
+      "bytes": 353840
+    },
+    "Cosmos2.5_0018": {
+      "url": "videos/Cosmos2.5_0018.mp4",
+      "bytes": 358843
+    },
+    "Cosmos2.5_0024": {
+      "url": "videos/Cosmos2.5_0024.mp4",
+      "bytes": 352872
+    },
+    "Cosmos2.5_0025": {
+      "url": "videos/Cosmos2.5_0025.mp4",
+      "bytes": 326992
+    },
+    "Cosmos2.5_0028": {
+      "url": "videos/Cosmos2.5_0028.mp4",
+      "bytes": 365437
+    },
+    "Cosmos2.5_0034": {
+      "url": "videos/Cosmos2.5_0034.mp4",
+      "bytes": 325375
+    },
+    "Cosmos2.5_0036": {
+      "url": "videos/Cosmos2.5_0036.mp4",
+      "bytes": 361539
+    },
+    "Cosmos2.5_0037": {
+      "url": "videos/Cosmos2.5_0037.mp4",
+      "bytes": 362011
+    },
+    "Cosmos2.5_0041": {
+      "url": "videos/Cosmos2.5_0041.mp4",
+      "bytes": 358663
+    },
+    "Cosmos2.5_0045": {
+      "url": "videos/Cosmos2.5_0045.mp4",
+      "bytes": 351698
+    },
+    "Cosmos2.5_0054": {
+      "url": "videos/Cosmos2.5_0054.mp4",
+      "bytes": 334458
+    },
+    "Cosmos2.5_0056": {
+      "url": "videos/Cosmos2.5_0056.mp4",
+      "bytes": 374048
+    },
+    "Cosmos2.5_0057": {
+      "url": "videos/Cosmos2.5_0057.mp4",
+      "bytes": 385639
+    },
+    "Cosmos2.5_0058": {
+      "url": "videos/Cosmos2.5_0058.mp4",
+      "bytes": 389186
+    },
+    "Cosmos2.5_0060": {
+      "url": "videos/Cosmos2.5_0060.mp4",
+      "bytes": 354303
+    },
+    "Cosmos2.5_0064": {
+      "url": "videos/Cosmos2.5_0064.mp4",
+      "bytes": 323031
+    },
+    "Cosmos3_seed101_0002": {
+      "url": "videos/Cosmos3_seed101_0002.mp4",
+      "bytes": 590727
+    },
+    "Cosmos3_seed101_0003": {
+      "url": "videos/Cosmos3_seed101_0003.mp4",
+      "bytes": 578788
+    },
+    "Cosmos3_seed101_0004": {
+      "url": "videos/Cosmos3_seed101_0004.mp4",
+      "bytes": 577675
+    },
+    "Cosmos3_seed101_0006": {
+      "url": "videos/Cosmos3_seed101_0006.mp4",
+      "bytes": 579055
+    },
+    "Cosmos3_seed101_0008": {
+      "url": "videos/Cosmos3_seed101_0008.mp4",
+      "bytes": 584965
+    },
+    "Cosmos3_seed101_0009": {
+      "url": "videos/Cosmos3_seed101_0009.mp4",
+      "bytes": 586129
+    },
+    "Cosmos3_seed101_0010": {
+      "url": "videos/Cosmos3_seed101_0010.mp4",
+      "bytes": 570104
+    },
+    "Cosmos3_seed101_0012": {
+      "url": "videos/Cosmos3_seed101_0012.mp4",
+      "bytes": 621513
+    },
+    "Cosmos3_seed101_0014": {
+      "url": "videos/Cosmos3_seed101_0014.mp4",
+      "bytes": 576647
+    },
+    "Cosmos3_seed101_0015": {
+      "url": "videos/Cosmos3_seed101_0015.mp4",
+      "bytes": 594127
+    },
+    "Cosmos3_seed101_0017": {
+      "url": "videos/Cosmos3_seed101_0017.mp4",
+      "bytes": 565868
+    },
+    "Cosmos3_seed101_0019": {
+      "url": "videos/Cosmos3_seed101_0019.mp4",
+      "bytes": 581534
+    },
+    "Cosmos3_seed101_0020": {
+      "url": "videos/Cosmos3_seed101_0020.mp4",
+      "bytes": 582766
+    },
+    "Cosmos3_seed101_0021": {
+      "url": "videos/Cosmos3_seed101_0021.mp4",
+      "bytes": 583049
+    },
+    "Cosmos3_seed101_0022": {
+      "url": "videos/Cosmos3_seed101_0022.mp4",
+      "bytes": 596576
+    },
+    "Cosmos3_seed101_0023": {
+      "url": "videos/Cosmos3_seed101_0023.mp4",
+      "bytes": 573048
+    },
+    "Cosmos3_seed101_0025": {
+      "url": "videos/Cosmos3_seed101_0025.mp4",
+      "bytes": 545190
+    },
+    "Cosmos3_seed101_0027": {
+      "url": "videos/Cosmos3_seed101_0027.mp4",
+      "bytes": 617552
+    },
+    "Cosmos3_seed101_0029": {
+      "url": "videos/Cosmos3_seed101_0029.mp4",
+      "bytes": 583099
+    },
+    "Cosmos3_seed101_0032": {
+      "url": "videos/Cosmos3_seed101_0032.mp4",
+      "bytes": 564590
+    },
+    "Cosmos3_seed101_0033": {
+      "url": "videos/Cosmos3_seed101_0033.mp4",
+      "bytes": 590560
+    },
+    "Cosmos3_seed101_0034": {
+      "url": "videos/Cosmos3_seed101_0034.mp4",
+      "bytes": 574337
+    },
+    "Cosmos3_seed101_0035": {
+      "url": "videos/Cosmos3_seed101_0035.mp4",
+      "bytes": 576130
+    },
+    "Cosmos3_seed101_0036": {
+      "url": "videos/Cosmos3_seed101_0036.mp4",
+      "bytes": 590951
+    },
+    "Cosmos3_seed101_0039": {
+      "url": "videos/Cosmos3_seed101_0039.mp4",
+      "bytes": 578634
+    },
+    "Cosmos3_seed101_0040": {
+      "url": "videos/Cosmos3_seed101_0040.mp4",
+      "bytes": 570705
+    },
+    "Cosmos3_seed101_0042": {
+      "url": "videos/Cosmos3_seed101_0042.mp4",
+      "bytes": 594088
+    },
+    "Cosmos3_seed101_0048": {
+      "url": "videos/Cosmos3_seed101_0048.mp4",
+      "bytes": 559040
+    },
+    "Cosmos3_seed101_0049": {
+      "url": "videos/Cosmos3_seed101_0049.mp4",
+      "bytes": 603691
+    },
+    "Cosmos3_seed101_0052": {
+      "url": "videos/Cosmos3_seed101_0052.mp4",
+      "bytes": 587286
+    },
+    "Cosmos3_seed101_0053": {
+      "url": "videos/Cosmos3_seed101_0053.mp4",
+      "bytes": 610387
+    },
+    "Cosmos3_seed101_0054": {
+      "url": "videos/Cosmos3_seed101_0054.mp4",
+      "bytes": 587222
+    },
+    "Cosmos3_seed101_0055": {
+      "url": "videos/Cosmos3_seed101_0055.mp4",
+      "bytes": 620868
+    },
+    "Cosmos3_seed101_0065": {
+      "url": "videos/Cosmos3_seed101_0065.mp4",
+      "bytes": 545420
+    },
+    "Cosmos3_seed102_0000": {
+      "url": "videos/Cosmos3_seed102_0000.mp4",
+      "bytes": 589065
+    },
+    "Cosmos3_seed102_0001": {
+      "url": "videos/Cosmos3_seed102_0001.mp4",
+      "bytes": 572083
+    },
+    "Cosmos3_seed102_0002": {
+      "url": "videos/Cosmos3_seed102_0002.mp4",
+      "bytes": 557619
+    },
+    "Cosmos3_seed102_0003": {
+      "url": "videos/Cosmos3_seed102_0003.mp4",
+      "bytes": 561430
+    },
+    "Cosmos3_seed102_0004": {
+      "url": "videos/Cosmos3_seed102_0004.mp4",
+      "bytes": 571477
+    },
+    "Cosmos3_seed102_0005": {
+      "url": "videos/Cosmos3_seed102_0005.mp4",
+      "bytes": 555048
+    },
+    "Cosmos3_seed102_0006": {
+      "url": "videos/Cosmos3_seed102_0006.mp4",
+      "bytes": 625300
+    },
+    "Cosmos3_seed102_0007": {
+      "url": "videos/Cosmos3_seed102_0007.mp4",
+      "bytes": 586057
+    },
+    "Cosmos3_seed102_0008": {
+      "url": "videos/Cosmos3_seed102_0008.mp4",
+      "bytes": 573125
+    },
+    "Cosmos3_seed102_0009": {
+      "url": "videos/Cosmos3_seed102_0009.mp4",
+      "bytes": 612857
+    },
+    "Cosmos3_seed102_0010": {
+      "url": "videos/Cosmos3_seed102_0010.mp4",
+      "bytes": 590053
+    },
+    "Cosmos3_seed102_0011": {
+      "url": "videos/Cosmos3_seed102_0011.mp4",
+      "bytes": 579933
+    },
+    "Cosmos3_seed102_0014": {
+      "url": "videos/Cosmos3_seed102_0014.mp4",
+      "bytes": 599848
+    },
+    "Cosmos3_seed102_0015": {
+      "url": "videos/Cosmos3_seed102_0015.mp4",
+      "bytes": 627794
+    },
+    "Cosmos3_seed102_0018": {
+      "url": "videos/Cosmos3_seed102_0018.mp4",
+      "bytes": 606538
+    },
+    "Cosmos3_seed102_0019": {
+      "url": "videos/Cosmos3_seed102_0019.mp4",
+      "bytes": 570994
+    },
+    "Cosmos3_seed102_0020": {
+      "url": "videos/Cosmos3_seed102_0020.mp4",
+      "bytes": 535608
+    },
+    "Cosmos3_seed102_0022": {
+      "url": "videos/Cosmos3_seed102_0022.mp4",
+      "bytes": 620717
+    },
+    "Cosmos3_seed102_0025": {
+      "url": "videos/Cosmos3_seed102_0025.mp4",
+      "bytes": 541469
+    },
+    "Cosmos3_seed102_0027": {
+      "url": "videos/Cosmos3_seed102_0027.mp4",
+      "bytes": 537357
+    },
+    "Cosmos3_seed102_0029": {
+      "url": "videos/Cosmos3_seed102_0029.mp4",
+      "bytes": 516057
+    },
+    "Cosmos3_seed102_0034": {
+      "url": "videos/Cosmos3_seed102_0034.mp4",
+      "bytes": 555953
+    },
+    "Cosmos3_seed102_0036": {
+      "url": "videos/Cosmos3_seed102_0036.mp4",
+      "bytes": 576821
+    },
+    "Cosmos3_seed102_0040": {
+      "url": "videos/Cosmos3_seed102_0040.mp4",
+      "bytes": 561537
+    },
+    "Cosmos3_seed102_0041": {
+      "url": "videos/Cosmos3_seed102_0041.mp4",
+      "bytes": 570801
+    },
+    "Cosmos3_seed102_0042": {
+      "url": "videos/Cosmos3_seed102_0042.mp4",
+      "bytes": 584211
+    },
+    "Cosmos3_seed102_0048": {
+      "url": "videos/Cosmos3_seed102_0048.mp4",
+      "bytes": 553349
+    },
+    "Cosmos3_seed102_0049": {
+      "url": "videos/Cosmos3_seed102_0049.mp4",
+      "bytes": 622095
+    },
+    "Cosmos3_seed102_0054": {
+      "url": "videos/Cosmos3_seed102_0054.mp4",
+      "bytes": 574524
+    },
+    "Cosmos3_seed102_0062": {
+      "url": "videos/Cosmos3_seed102_0062.mp4",
+      "bytes": 546203
+    },
+    "Cosmos3_seed102_0064": {
+      "url": "videos/Cosmos3_seed102_0064.mp4",
+      "bytes": 549445
+    },
+    "Cosmos3_seed102_0066": {
+      "url": "videos/Cosmos3_seed102_0066.mp4",
+      "bytes": 552169
+    },
+    "Cosmos3_seed103_0000": {
+      "url": "videos/Cosmos3_seed103_0000.mp4",
+      "bytes": 585118
+    },
+    "Cosmos3_seed103_0001": {
+      "url": "videos/Cosmos3_seed103_0001.mp4",
+      "bytes": 591979
+    },
+    "Cosmos3_seed103_0002": {
+      "url": "videos/Cosmos3_seed103_0002.mp4",
+      "bytes": 587516
+    },
+    "Cosmos3_seed103_0003": {
+      "url": "videos/Cosmos3_seed103_0003.mp4",
+      "bytes": 564224
+    },
+    "Cosmos3_seed103_0004": {
+      "url": "videos/Cosmos3_seed103_0004.mp4",
+      "bytes": 568557
+    },
+    "Cosmos3_seed103_0005": {
+      "url": "videos/Cosmos3_seed103_0005.mp4",
+      "bytes": 559137
+    },
+    "Cosmos3_seed103_0006": {
+      "url": "videos/Cosmos3_seed103_0006.mp4",
+      "bytes": 617958
+    },
+    "Cosmos3_seed103_0007": {
+      "url": "videos/Cosmos3_seed103_0007.mp4",
+      "bytes": 589555
+    },
+    "Cosmos3_seed103_0008": {
+      "url": "videos/Cosmos3_seed103_0008.mp4",
+      "bytes": 558201
+    },
+    "Cosmos3_seed103_0009": {
+      "url": "videos/Cosmos3_seed103_0009.mp4",
+      "bytes": 589865
+    },
+    "Cosmos3_seed103_0010": {
+      "url": "videos/Cosmos3_seed103_0010.mp4",
+      "bytes": 562567
+    },
+    "Cosmos3_seed103_0011": {
+      "url": "videos/Cosmos3_seed103_0011.mp4",
+      "bytes": 594677
+    },
+    "Cosmos3_seed103_0012": {
+      "url": "videos/Cosmos3_seed103_0012.mp4",
+      "bytes": 569845
+    },
+    "Cosmos3_seed103_0013": {
+      "url": "videos/Cosmos3_seed103_0013.mp4",
+      "bytes": 610080
+    },
+    "Cosmos3_seed103_0016": {
+      "url": "videos/Cosmos3_seed103_0016.mp4",
+      "bytes": 591448
+    },
+    "Cosmos3_seed103_0017": {
+      "url": "videos/Cosmos3_seed103_0017.mp4",
+      "bytes": 604904
+    },
+    "Cosmos3_seed103_0019": {
+      "url": "videos/Cosmos3_seed103_0019.mp4",
+      "bytes": 565893
+    },
+    "Cosmos3_seed103_0022": {
+      "url": "videos/Cosmos3_seed103_0022.mp4",
+      "bytes": 594184
+    },
+    "Cosmos3_seed103_0023": {
+      "url": "videos/Cosmos3_seed103_0023.mp4",
+      "bytes": 581291
+    },
+    "Cosmos3_seed103_0024": {
+      "url": "videos/Cosmos3_seed103_0024.mp4",
+      "bytes": 572814
+    },
+    "Cosmos3_seed103_0026": {
+      "url": "videos/Cosmos3_seed103_0026.mp4",
+      "bytes": 609400
+    },
+    "Cosmos3_seed103_0028": {
+      "url": "videos/Cosmos3_seed103_0028.mp4",
+      "bytes": 578314
+    },
+    "Cosmos3_seed103_0033": {
+      "url": "videos/Cosmos3_seed103_0033.mp4",
+      "bytes": 567702
+    },
+    "Cosmos3_seed103_0035": {
+      "url": "videos/Cosmos3_seed103_0035.mp4",
+      "bytes": 599252
+    },
+    "Cosmos3_seed103_0036": {
+      "url": "videos/Cosmos3_seed103_0036.mp4",
+      "bytes": 583298
+    },
+    "Cosmos3_seed103_0037": {
+      "url": "videos/Cosmos3_seed103_0037.mp4",
+      "bytes": 606096
+    },
+    "Cosmos3_seed103_0038": {
+      "url": "videos/Cosmos3_seed103_0038.mp4",
+      "bytes": 589643
+    },
+    "Cosmos3_seed103_0040": {
+      "url": "videos/Cosmos3_seed103_0040.mp4",
+      "bytes": 589158
+    },
+    "Cosmos3_seed103_0053": {
+      "url": "videos/Cosmos3_seed103_0053.mp4",
+      "bytes": 582930
+    },
+    "Cosmos3_seed103_0054": {
+      "url": "videos/Cosmos3_seed103_0054.mp4",
+      "bytes": 630223
+    },
+    "Cosmos3_seed103_0055": {
+      "url": "videos/Cosmos3_seed103_0055.mp4",
+      "bytes": 328631
+    },
+    "Cosmos3_seed103_0056": {
+      "url": "videos/Cosmos3_seed103_0056.mp4",
+      "bytes": 573359
+    },
+    "Cosmos3_seed103_0057": {
+      "url": "videos/Cosmos3_seed103_0057.mp4",
+      "bytes": 554481
+    },
+    "Cosmos3_seed103_0058": {
+      "url": "videos/Cosmos3_seed103_0058.mp4",
+      "bytes": 569125
+    },
+    "Cosmos3_seed103_0060": {
+      "url": "videos/Cosmos3_seed103_0060.mp4",
+      "bytes": 595633
+    },
+    "Cosmos3_seed103_0062": {
+      "url": "videos/Cosmos3_seed103_0062.mp4",
+      "bytes": 546476
+    },
+    "Cosmos3_seed103_0064": {
+      "url": "videos/Cosmos3_seed103_0064.mp4",
+      "bytes": 567652
+    },
+    "Cosmos3_seed103_0066": {
+      "url": "videos/Cosmos3_seed103_0066.mp4",
+      "bytes": 548484
+    },
+    "Cosmos3_seed103_0067": {
+      "url": "videos/Cosmos3_seed103_0067.mp4",
+      "bytes": 537517
+    },
+    "LVP_0004": {
+      "url": "videos/LVP_0004.mp4",
+      "bytes": 187980
+    },
+    "LVP_0030": {
+      "url": "videos/LVP_0030.mp4",
+      "bytes": 155104
+    },
+    "LVP_0043": {
+      "url": "videos/LVP_0043.mp4",
+      "bytes": 155250
+    },
+    "LVP_0049": {
+      "url": "videos/LVP_0049.mp4",
+      "bytes": 182588
+    },
+    "LVP_0050": {
+      "url": "videos/LVP_0050.mp4",
+      "bytes": 170333
+    },
+    "LVP_0051": {
+      "url": "videos/LVP_0051.mp4",
+      "bytes": 182197
+    },
+    "LVP_0053": {
+      "url": "videos/LVP_0053.mp4",
+      "bytes": 170239
+    },
+    "LVP_0054": {
+      "url": "videos/LVP_0054.mp4",
+      "bytes": 193876
+    },
+    "LVP_0055": {
+      "url": "videos/LVP_0055.mp4",
+      "bytes": 178158
+    },
+    "LVP_0056": {
+      "url": "videos/LVP_0056.mp4",
+      "bytes": 178688
+    },
+    "LVP_0061": {
+      "url": "videos/LVP_0061.mp4",
+      "bytes": 174335
+    },
+    "LVP_0062": {
+      "url": "videos/LVP_0062.mp4",
+      "bytes": 176555
+    }
+  }
+}
